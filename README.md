@@ -32,7 +32,7 @@ Make sure you have **Node.js** installed on your machine.
 ### Installation
 
 1. **Clone the repository**
-   git clone https://github.com/YOUR_GITHUB_USERNAME/nw-safety-health-landing-page.git
+   git clone https://github.com/Malaikaa903/nw-safety-health-landing-page.git
 
 2. **Navigate into the project directory**
    cd nw-safety-health-landing-page
